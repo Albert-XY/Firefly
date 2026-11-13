@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://albert-xy.github.io/Firefly/</id>
+  <title type="text">aIbert的前哨站</title>
+  <subtitle type="text">一花一叶一菩提</subtitle>
+  <updated>2026-11-09T00:00:00.000Z</updated>
+  <author><name>XaIbertY</name></author>
+  <link rel="alternate" href="https://albert-xy.github.io/Firefly/"/>
+  <link rel="self" href="https://albert-xy.github.io/Firefly/atom.xml"/>
+  <generator uri="https://github.com/CuteLeaf/Firefly">Firefly v6.16.9</generator>
+    <entry>
+      <id>https://albert-xy.github.io/Firefly/posts/hello-world/</id>
+      <title type="text">你好，这里是 aIbert 的前哨站</title>
+      <published>2026-11-09T00:00:00.000Z</published>
+      <updated>2026-11-09T00:00:00.000Z</updated>
+      <author><name>XaIbertY</name></author>
+      <link rel="alternate" href="https://albert-xy.github.io/Firefly/posts/hello-world/"/>
+      <summary type="text">第一篇。写点开张的话，顺便记一下这个站点是怎么搭起来的。</summary>
+      <content type="html"><![CDATA[<section><h2>开张<a href="#开张"><span>#</span></a></h2><p>这里是 <strong>aIbert的前哨站</strong>，我的个人博客。</p><p>“前哨站”这个名字大概是说：正式的东西还没写出来，先把地方占住，之后零零碎碎地往这儿搬东西——技术笔记、踩坑记录、一些没想清楚的念头。</p></section>
+<section><h2>关于这个站<a href="#关于这个站"><span>#</span></a></h2><p>用的 <a href="https://github.com/CuteLeaf/Firefly" target="_blank">Firefly</a> 主题（Astro + Svelte），基于 <a href="https://github.com/saicaca/fuwari" target="_blank">Fuwari</a> 二次开发。花里胡哨的功能挺多，暂时只开了最基础的部分。</p></section>
+<section><h2>之后大概会写什么<a href="#之后大概会写什么"><span>#</span></a></h2><ul>
+<li>折腾各种东西时遇到的问题和解法</li>
+<li>一些工具、脚本的用法</li>
+<li>读书/看片的零碎记录</li>
+</ul><p>大概就这样。慢慢来。</p></section>]]></content>
+    </entry>
+</feed>

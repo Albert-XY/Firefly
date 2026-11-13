@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /Firefly/studio/
+Disallow: /studio/
+Allow: /
+
+# 说明：/studio/ 页面本身另带 <meta name="robots" content="noindex, nofollow">。
+# 项目站点的 robots.txt 实际位于子路径下，主流爬虫只认根域的 /robots.txt，
+# 因此这里的 Disallow 只是补充，真正的防收录靠页面上的 noindex 与「不被任何导航链接」。

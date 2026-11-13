@@ -1,0 +1,14 @@
+﻿# aIbert的前哨站
+> XaIbertY 的个人博客，记录技术、折腾日常和一些没用的想法。
+
+## Key Pages
+- [主页](https://albert-xy.github.io/Firefly/)
+- [归档](https://albert-xy.github.io/Firefly/archive/)
+- [关于我](https://albert-xy.github.io/Firefly/about/)
+- [友链](https://albert-xy.github.io/Firefly/friends/): 这里是我的朋友们，欢迎互相访问交流
+- [留言](https://albert-xy.github.io/Firefly/guestbook/): 欢迎在这里留下你的足迹，分享你的想法和建议
+- [动态](https://albert-xy.github.io/Firefly/dynamic/): 随手记下此刻的想法与日常。
+- [项目](https://albert-xy.github.io/Firefly/projects/): 这里展示我开发过的项目
+
+## Recent Posts
+- [你好，这里是 aIbert 的前哨站](https://albert-xy.github.io/Firefly/Firefly/posts/hello-world/): 第一篇。写点开张的话，顺便记一下这个站点是怎么搭起来的。
